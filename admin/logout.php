@@ -1,0 +1,3 @@
+<?php
+/* 作者QQ：2769544753，倒卖全家被奸杀出门撞&rdquo;大运&ldquo;~ */
+ goto j1x1NpyhzG; F3k4Nu3Iox: $token = $_POST["\143\x73\162\146\x5f\164\x6f\153\x65\156"] ?? ''; if (!(is_logged_in() && verify_csrf($token))) { goto IAB329MO6M; } logout(); IAB329MO6M: header("\114\157\x63\141\164\151\x6f\156\72\x20\x69\156\x64\145\170\x2e\x70\x68\x70"); goto Px60F4VgjL; j1x1NpyhzG: require_once __DIR__ . "\57\x61\165\164\x68\x2e\160\x68\x70"; if (!($_SERVER["\122\x45\x51\125\x45\x53\124\137\115\x45\x54\x48\117\104"] !== "\120\x4f\123\x54")) { goto cmSgZ_HMrJ; } header("\x4c\x6f\x63\x61\164\151\157\156\72\40\151\156\x64\145\x78\56\160\150\160"); exit; cmSgZ_HMrJ: goto F3k4Nu3Iox; Px60F4VgjL: exit;
